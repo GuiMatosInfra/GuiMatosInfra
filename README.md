@@ -1,8 +1,8 @@
 ## Guilherme Matos
 
 
-- 🔭 Estou Trabalhando na Area de Infraestrutura de Redes
-- 🌱 Já sou Especialista em Redes e Estou estudando Segurança da Informação
+- 🔭 Estou Trabalhando na Area de Infraestrutura de Redes e Segurança
+  
 
 <div> 
   <a href="https://www.youtube.com/@matos_infra" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
